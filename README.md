@@ -9,7 +9,7 @@
 - На вашей linux машине должен быть [развернут docker](https://www.digitalocean.com/community/tutorials/docker-ubuntu-18-04-1-ru).
 - Для запуска контейнера склонируйте проект из git:
 ```Bash
-git clone https://github.com/shvilime/docker-usbhasp.git
+git clone https://github.com/soloveyplus/docker-usbhasp.git
 ```
 - Положить ключи в формате json в папку keys. Находящийся там файл example.json - удалить.
 - Выполнить комманды.
